@@ -42,7 +42,7 @@
                 <th>Gambar</th>
                 <th>Ukuran</th>
                 <th>Deskripsi</th>
-                <th>HArga</th>
+                <th>Harga</th>
                 <th>Stok</th>
                 <th>Aksi</th>
             </tr>
